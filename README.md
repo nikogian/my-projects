@@ -1,4 +1,4 @@
-A set of personal mini projects.
+A set of personal python projects.
 
 The pattern game is one of python educational ones.
 
