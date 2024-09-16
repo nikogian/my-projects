@@ -6,4 +6,4 @@ Password generator and Expenses tracker are made for personal use as well as for
 
 Bill and expense splitting project is made for oop & gui practice.
 
-Game theory is a very interesting on-going project which simulates real-world problems, tactics and human behavior issues.
+Game theory is an on-going project which simulates real-world problems, tactics and human behavior issues.
